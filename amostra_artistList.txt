@@ -1,0 +1,14 @@
+[
+{ "nome":"Jorge e Mateus","nomeShow":"Jorge e Mateus","pais":"null","estado":"MG","cidade":"Patos de Minas","dataShow":"30/05/2015","local":"Fenamilho Rua Major Gote, 1158","ingressos":"Loja Pátio Central Shopping e Sindicato dos Produtores Rurais Inteira: R$ 100 - Meia: R$ 50 / Camarote Prime Open Bar Praça Park – R$ 70 / Camarote Open Bar Paiolão – R$ 90 / Área Vip Paiolão – Inteira R$ 50 / Meia R$ 25 L","classificacao":"livre","dataExtracao":"05/07/2016","horaExtracao":"23:41:24"},
+
+{ "nome":"Jorge & Mateus","nomeShow":"Jorge e Mateus","pais":"null","estado":"SP","cidade":"Sertãozinho","dataShow":"08/07/2016","local":"Centro de Eventos Zanini Avenida João Olézio Marques, Sertãozinho - São Paulo, 14175-000, Brazil","ingressos":"Site Net Tickets Pista R$ 35 Passaporte R$ 120 18","classificacao":"18 anos","dataExtracao":"05/07/2016","horaExtracao":"23:46:11"},
+
+
+{ "nome":"Jorge e Mateus","nomeShow":"Jorge e Mateus","pais":"null","estado":"SP","cidade":"Araçatuba","dataShow":"15/07/2016","local":"Recinto de Exposições de Araçatuba Av. Dr. Alcides Fagundes Chagas, 600 - Aviacao, Araçatuba - SP, Brasil","ingressos":"Alo","classificacao":"","dataExtracao":"05/07/2016","horaExtracao":"23:50:15"},
+
+{ "nome":"Matheus & Kauan","nomeShow":"Matheus e Kauan","pais":"null","estado":"SP","cidade":"Bauru","dataShow":"13/08/2016","local":"Recinto Mello de Moraes Avenida Comendador José da Silva Martha - Jardim Nasralla, Bauru - São Paulo, 17016-080, Brazil","ingressos":"Bauru Shopping e escritório da Arco, no Recinto Mello de Moraes. Pista meia R$ 15. Pista inteira R$ 30. 18","classificacao":"18 anos","dataExtracao":"05/07/2016","horaExtracao":"23:51:00"},
+
+{ "nome":"Matheus e Kauan","nomeShow":"Matheus e Kauan","pais":"null","estado":"MG","cidade":"Campos Gerais","dataShow":"17/09/2016","local":"Parque de Exposições de Campos Gerais Avenida Getúlio Vargas, s/n","ingressos":"No site Ticket CG Pacote 3 dias (R$ 100) 16","classificacao":"16 anos","dataExtracao":"06/07/2016","horaExtracao":"00:02:56"}
+
+
+]
